@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./campegiivitring00vitrgoog_0315.png"; bbox 0 0 3456 4718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 339 1272 1685 1443">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 339 1272 1685 1443">
+     <span class='ocr_line' id='line_1_1' title="bbox 339 1272 1685 1443; baseline 0.004 -34"><span class='ocrx_word' id='word_1_1' title='bbox 339 1272 833 1409; x_wconf 76' lang='lat' dir='ltr'><strong>cAMPEcn</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 886 1272 1380 1413; x_wconf 72' lang='lat' dir='ltr'>V1TR1NG‘A</span> <span class='ocrx_word' id='word_1_3' title='bbox 1599 1339 1601 1343; x_wconf 23' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1682 1436 1685 1443; x_wconf 47' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 92 1594 1647 2161">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 92 1594 1647 2161">
+     <span class='ocr_line' id='line_1_2' title="bbox 92 1594 1647 1823; baseline 0.002 -7"><span class='ocrx_word' id='word_1_5' title='bbox 92 1674 103 1689; x_wconf 87' lang='grc'>·</span> <span class='ocrx_word' id='word_1_6' title='bbox 191 1594 1647 1823; x_wconf 88' lang='lat' dir='ltr'><strong>OBSERVATIONUM-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 275 1983 1446 2161; baseline 0.007 -9"><span class='ocrx_word' id='word_1_7' title='bbox 275 1983 1446 2161; x_wconf 80' lang='lat' dir='ltr'>SACRARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1732 4718">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1732 4718">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1732 4718; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1732 4718; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
